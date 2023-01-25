@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HOS-ELDIN
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning how to develop a website using HTML+CSS (applying stage)
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on ...(not yet)
 - 📫 How to reach me eng.hos.eldin@gmail.com
 <!---
