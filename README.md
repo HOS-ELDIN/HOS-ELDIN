@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HOS-ELDIN
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Next.Js
 - 💞️ I’m looking to collaborate on ...(not yet)
 - 📫 How to reach me eng.hos.eldin@gmail.com
 <!---
